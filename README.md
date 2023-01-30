@@ -4,7 +4,7 @@ JPQL and Criteria API used
 
 Football team schema:
 
-![alt text](https://github.com/[martynacysia]/[IO-R]/blob/[main]/footballSchema.png?raw=true)
+![alt text](https://github.com/[martynakurbiel52]/[IO-R]/blob/[main]/footballSchema.png?raw=true)
 
 
 
